@@ -109,3 +109,4 @@ class MugexPlugin implements Plugin.PluginBase {
 }
 
 export default new MugexPlugin();
+// Trigger plugin publishing workflow.
